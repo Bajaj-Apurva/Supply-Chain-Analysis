@@ -82,8 +82,8 @@ Descriptive Statistics: A summary of key statistics for numerical columns.
 Data Visualization: Scatter plots, pie charts, bar charts, and line graphs to visually represent the data.
 
 #### **Visualizations**
-Price vs. Revenue Generated:
 
+Price vs. Revenue Generated:
 Scatter plot with a trendline showing the relationship between the price of products and the revenue generated, categorized by product type.
 
 Sales by Product Type:
